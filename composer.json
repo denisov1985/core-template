@@ -1,10 +1,9 @@
 {
-    "name": "laravel/laravel",
+    "name": "core/template",
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": [
-        "framework",
-        "laravel"
+        "core",
     ],
     "license": "MIT",
     "require": {
@@ -42,8 +41,6 @@
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/",
-            "Sigma\\Core\\": "core/src/",
-            "Sigma\\Core\\Modules\\": "core/src/modules/app"
         }
     },
     "minimum-stability": "dev",
