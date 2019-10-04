@@ -4,6 +4,7 @@
       "dev-master": {
         "name": "core/template",
         "source": {
+          "reference": "a39d120714084e02d8052d7a4444d35b41f49dab",
           "type": "git",
           "url": "https://github.com/denisov1985/core-template.git"
         },
