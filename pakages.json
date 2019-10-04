@@ -1,0 +1,16 @@
+{
+  "packages": {
+    "core/template": {
+      "dev-master": {
+        "name": "core/template",
+        "source": {
+          "reference": "30e6317bc3c8f6e7db48e4f42d404c798a3f03a9",
+          "type": "git",
+          "url": "https://github.com/denisov1985/core-template.git"
+        },
+        "type": "project",
+        "version": "dev-master"
+      }
+    }
+  }
+}
